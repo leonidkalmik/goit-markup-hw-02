@@ -1,47 +1,26 @@
-.header {
-  background-color: #fff;
+.features {
 }
 
-.main-nav {
+.features-title {
 }
 
-.main-nav-list {
+.features-list {
 }
 
-.main-nav-item {
+.features-item {
 }
 
-.main-nav-link {
+.features-caption {
   font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
+  font-size: 20px;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
-.main-nav-link:hover,
-.main-nav-link:focus {
-  color: #404bbf;
-}
-
-.contacts {
-  font-style: normal;
-}
-
-.contacts-list {
-}
-
-.contact-item {
-}
-
-.contact-link {
+.features-desc {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-}
-
-.contact-link:hover,
-.contact-link:focus {
-  color: #404bbf;
 }
